@@ -140,3 +140,4 @@ C:\Users\simon\OneDrive\Desktop\Industrial Programmering\InventoryApp\obj\Debug\
 C:\Users\simon\OneDrive\Desktop\Industrial Programmering\InventoryApp\obj\Debug\net8.0\Inventor.BA6B0EE4.Up2Date
 C:\Users\simon\OneDrive\Desktop\Industrial Programmering\InventoryApp\obj\Debug\net8.0\InventoryApp.genruntimeconfig.cache
 C:\Users\simon\OneDrive\Desktop\Industrial Programmering\InventoryApp\obj\Debug\net8.0\ref\InventoryApp.dll
+C:\Users\simon\OneDrive\Desktop\Industrial Programmering\InventoryApp\obj\Debug\net8.0\InventoryApp.sourcelink.json

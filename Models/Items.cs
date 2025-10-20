@@ -26,5 +26,9 @@ namespace InventoryApp.Models
         public double Weight { get; } = weightKgPerPiece;
     }
 
-
+    public sealed class BulkItem(string name, decimal pricePerUnit, MeasurementUnit unit)
+        : Item(name, pricePerUnit)
+    {
+        public MeasurementUnit MeasurementUnit { get; } = unit;
+    }
 }
